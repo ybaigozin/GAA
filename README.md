@@ -19,6 +19,10 @@ The agent's overall health is measured by its **Net Strategic Vitality (`NSV = T
 
 This paper is a work in progress and is being shared publicly to invite discussion, critique, and collaboration from experts across various fields. The goal is to build a robust, interdisciplinary conversation around a new science of agency.
 
+## Important corrections (October 2026)
+
+The original July 2025 paper remains unchanged as the historical publication. Read the **[Errata and Clarifications v1.1](errata/GAA_Errata_v1.1.md)** before relying on its equations or AI-agent applications. The errata corrects stock/flow type mismatches, sign conventions and overstated equivalences, and distinguishes established errors from research proposals. The framework is exploratory and its universal theoretical claims remain unvalidated.
+
 ## How to Read the Paper
 
 For the best reading experience, please download the formatted PDF from this repository if available. The full text is also provided in `GAA_Framework_Paper.md`.
